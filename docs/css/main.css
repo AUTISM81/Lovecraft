@@ -1,0 +1,12 @@
+body {
+    background-image: url(https://i.imgur.com/ndfltzn.jpg);
+    color: azure;
+}
+
+main {
+    width: 60%;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 60px;
+}
